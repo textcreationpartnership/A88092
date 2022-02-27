@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lex Parlamentorum: or, An abstract of the antiquity and jurisdiction of the High court of Parliament, according to the lawes and constitutions of this realme.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88092</idno>
+            <idno type="STC">Wing L1859</idno>
+            <idno type="STC">Thomason E458_5</idno>
+            <idno type="STC">ESTC R205027</idno>
+            <idno type="EEBO-CITATION">99864471</idno>
+            <idno type="PROQUEST">99864471</idno>
+            <idno type="VID">162088</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88092)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162088)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E458[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lex Parlamentorum: or, An abstract of the antiquity and jurisdiction of the High court of Parliament, according to the lawes and constitutions of this realme.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 11".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Law --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162088:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 24 -->
+            <p>Lex Parlamentorum: OR, AN ABSTRACT OF THE Antiquity and Iuriſdiction of the High Court of PARLIAMENT, According to the Lawes and Conſtitutions of this Realme.</p>
+            <p>LONDON. Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162088:2"/>
+            <!-- PDF PAGE 25 -->
+            <pb n="1" facs="tcp:162088:2"/>
+            <!-- PDF PAGE 25 -->
+            <head>A ſhort Treatiſe of the <hi>Parliament</hi> of <hi>England,</hi> and Juriſdiction thereof.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE thing ever amongſt men in eve<g ref="char:EOLhyphen"/>ry Countrey had in moſt Reputation and eſteeme, is the Publick flouriſh<g ref="char:EOLhyphen"/>ing of their Countreys Common<g ref="char:EOLhyphen"/>weal: and he that endeavoureth the ſame, is worthy to be commended; to which every one Naturally hath a love and zeal; And it followeth, that Man can<g ref="char:EOLhyphen"/>not attain theſe things, but by a mean, which mean is none other but Reaſonable Ordinances and Lawes; the which Lawes proceed and come principally of <hi>God,</hi> for the Providence and will of <hi>God</hi> is ever aſſiſtant.</p>
+            <p>The <hi>Parliament</hi> is the High, and moſt Honourable,<note place="margin">Coke li. 10. fol. 123, 124. ſect. 97.</note> and moſt abſolute Court of Juſtice of <hi>England,</hi> conſiſt<g ref="char:EOLhyphen"/>ing of <hi>Lords</hi> in <hi>Parliament</hi> and <hi>Commons:</hi> The Lords were formerly divided into two ſorts, <hi>Spirituall</hi> and <hi>Temporal;</hi> The <hi>Commons</hi> are divided into three parts, viz. <hi>Knights</hi> of <hi>Sheirs</hi> or <hi>Counties, Citizens</hi> out of <hi>Cities,</hi> and <hi>Burgeſſes</hi> out of <hi>Burroughs.</hi>
+            </p>
+            <pb n="2" facs="tcp:162088:3"/>
+            <!-- PDF PAGE 26 -->
+            <p>
+               <hi>The Antiquity of the High Court of Parliament.</hi>
+               <note place="margin">
+                  <hi>Antiquity of the Court of Parlia<g ref="char:EOLhyphen"/>ment.</hi> Bract. c. 2. Re<g ref="char:EOLhyphen"/>giſt. 280. 5 H. 4.</note>
+            </p>
+            <p>The King of England is armed with diverſe Counſels, one is called <hi>Commune Concilium,</hi> and it is Legally cal<g ref="char:EOLhyphen"/>led in writs <hi>Magnum Concilium Regis Angliae;</hi> and that is applied to the Houſe of <hi>Peers,</hi> which is called the <hi>Lords</hi> houſe of <hi>Parliament.</hi>
+            </p>
+            <p>
+               <hi>The Juriſdiction of the High Court of Parliament.</hi>
+            </p>
+            <p>The Court of <hi>Parliament</hi> is ſo tranſcendent, that it maketh Lawes, diminiſheth and inlargeth Lawes, Sta<g ref="char:EOLhyphen"/>tutes, and Ordinances; concerning matters <hi>Eccleſiaſtical, Capital, Criminal, Common, Civil, Maritine, &amp;c.</hi>
+            </p>
+            <p>None can begin, continue or diſſolve the <hi>Parliament</hi> but by the Kings Authority.<note place="margin">Mirr. cap. 2. ſect. 4 10.14. c 4. de de<g ref="char:EOLhyphen"/>fault, &amp; cap. de Homicid. c. 11. ſect. 13. cap. 4.</note> The Court of <hi>Parliament</hi> is of that high Honour and Juſtice, that none ought to imagine any thing diſhonourable that proceeds from that High Court of Juſtice: The writ of Summons is the Baſis and foundation of the <hi>Parliament, Rex eſt ha<g ref="char:EOLhyphen"/>biturus colloquium,</hi>
+               <note place="margin">Calvins caſe.</note> 
+               <hi>&amp; Tractatum cum Praelatis, Magna<g ref="char:EOLhyphen"/>tibus, &amp; Proceribus, ſuper arduis negotiis concernentibus</hi>
+               <list>
+                  <item>1. <hi>Nos.</hi>
+                  </item>
+                  <item>2. <hi>Defenſionem Regni noſtri.</hi>
+                  </item>
+                  <item>3. <hi>Defenſionem Eccleſiae Anglicanae,</hi> 2 <hi>&amp;</hi> 3<g ref="char:punc">▪</g> 
+                     <hi>Ed.</hi> 6. <hi>c.</hi> 1. 11. <hi>H.</hi> 7. <hi>c.</hi> 1.</item>
+               </list>
+            </p>
+            <p>Every Bil which paſſeth the <hi>Parliament,</hi> ſhal have rela<g ref="char:EOLhyphen"/>tion to the firſt day of the <hi>Parliament,</hi> though it be put in at the end of the <hi>Parliament:</hi> 33 Hen: 8.17. If di<g ref="char:EOLhyphen"/>verſe Seſſions be in one <hi>Parliament,</hi>
+               <note place="margin">Divers Seſſi<g ref="char:EOLhyphen"/>ons in one Parliament.</note> and the King doth not ſign the Bill untill the laſt, then all is the ſame day, and all ſhall have relation to the firſt day of the next Seſſions; and the firſt day and the laſt, are both one <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> and one day in Law.</p>
+            <p>No Bil is an act of <hi>Parliament,</hi> Ordinance or Edict in Law, although both Houſes agree unanimouſly in it) till it have the Royal Aſſent it is no act. <hi>Aſſembles de ceux tres eſtates eſt appelle une act de Parliament,</hi>
+               <note place="margin">Aſſembles de trois Eſtates.</note> 
+               <hi>car ſans touts trois, neſt aſcun acte,</hi> for without all 3 Eſtates 'tis no Act.</p>
+            <pb n="3" facs="tcp:162088:3"/>
+            <!-- PDF PAGE 26 -->
+            <p>The Kings conſent ſignified under His Great-Seal,<note place="margin">3 H. 7.21.</note> ſhall be to all intents of Law, as valid and effectuall as if He were Perſonally preſent.</p>
+            <p>The firſt Authenticall report of that name <hi>Parliament</hi> that I find,<note place="margin">3 Ed. 1. called Weſtm' 1.</note> is in the Statute made 3 <hi>Edw.</hi> 1. called <hi>Weſtmin</hi> 1. where the Aſſembly is ſaid to be <hi>le primer Parliament, apres Coronment le Roy.</hi> For in the Statute <hi>Articuli Cleri</hi> publiſhed 9 <hi>Ed.</hi> 2. theſe words are read amongſt others, <hi>Temporibus progenitorum noſtrorum quondam Regum Angliae in diverſis Parliamentis ſuis, &amp;c.</hi> Which-words <hi>progenitorum &amp; quondam</hi> muſt reach higher then 1 <hi>Ed.</hi> 1.<note place="margin">Sigbert, King of the Eaſt-Saxons.</note> I read that <hi>Sigbert</hi> King of the Eaſt <hi>Saxons</hi> being moved to be Baptized, did firſt call a Councell of his Subjects; and finding them to favour his motion, did then himſelf Aſſent unto it.</p>
+            <p>I read moreover in <hi>Mathew Paris,</hi>
+               <note place="margin">M. Paris temp. H. 4.1225.</note> that King <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> 3. <hi>Anno Dom.</hi> 1225. called together <hi>omnes Clericos &amp; Laicos totius Regni,</hi> or <hi>Vniverſi Regni,</hi> as the ſame Writer expreſſeth. Vide <hi>Magna Charta,</hi>
+               <note place="margin">Magna Charta, c. 29.</note> Parliament Charter. <hi>Vide</hi> the Stat. 15 <hi>Ed.</hi> 1. c. 1. Confirmes the 2 Charters, and other Statutes made by the King, Peers, &amp; Commons of this land: The Statute publiſhed in the 20 yeer of the ſame King <hi>Henry,</hi>
+               <note place="margin">Stat. de Mer<g ref="char:EOLhyphen"/>ton.</note> called <hi>the Statute of Mer<g ref="char:EOLhyphen"/>ton,</hi> which ſaith, <hi>Proviſum fuit &amp; Conceſſum tam à prae<g ref="char:EOLhyphen"/>dictis Archiepiſcopis, Epiſcopis, Comitibus, Baronibus, quam ab ipſo Rege &amp; aliis.</hi> The Statute of <hi>Weſtm'</hi> firſt made 3 <hi>Ed:</hi> 1. the title of it is, <hi>[The eſtabliſhment of King</hi> Edw. <hi>made by his Councell, Arch-biſhops, Biſhops, Abbots, Priors, Earles, Barons, and the Commonalty of the Land, &amp;c.]</hi> The Statute of <hi>Glouceſter,</hi> made in the firſt yeer of the ſaid Kings reign thus providing, <hi>pervenant pur le Roy &amp; appeales le pluis diſcretes de ſon Realme,</hi>
+               <note place="margin">4 Ed. 3. &amp; 36 Ed. 3. c. 10.</note> 
+               <hi>auxi bien des grondres come des maindres
+<pb n="4" facs="tcp:162088:4"/>
+                  <!-- PDF PAGE 27 -->ſtabiliter eſt &amp; concordantment ordine,</hi> once every year.</p>
+            <p>The Judges of the land have reſolved,<note place="margin">Nevills caſe, 7 part of Coke 34. 2 Iacobi.</note> that no Noble men committing Treaſon ſhall forfeit their office and dignity, their office is to Counſell the King in time of Peace, to defend him in time of War.</p>
+            <p>No man ſhall be impriſoned by the King and his Councel,<note place="margin">25 Ed. 3. c. 4. Petition de droit, 3 Carol. Magna Char<g ref="char:EOLhyphen"/>ta, c. 29.</note> unleſſe it be by Indictments, preſentment of his neighbours, where ſuch deed is done by due proces of law, made by writ Originall at the Common-Law, <hi>pag.</hi> 29. <hi>and expounds Lex terrae.</hi>
+            </p>
+            <p>The order to make an Act,<note place="margin">7 H. 7.14. 12 H. 7.20. 9 H. 3. Magna Charta.</note> is to have the joint Aſſent of the Communaltie, the Lords and the King; where a Statute is made to reſtrain the liberty of all people; the King ſhall not be bound by this Statute, unleſſe he be named in the Statute.</p>
+            <p>A Statute which is in the negative binds the Com<g ref="char:EOLhyphen"/>mon-Law,<note place="margin">Weſtm' 2. c. 40. 21 H. 7.21.</note> that a man may not after make uſe of the Common-Law.</p>
+            <p>The Members of the Houſe of Commons at every <hi>Parliament</hi> take a Corporal Oath,<note place="margin">1 Eliz. cap. 1. 5 Eliz. cap. 1. Caudrees caſe.</note> that the King is the Supream Head, and onely Governour in all Cauſes over all Perſons.</p>
+            <p>Where there is a <hi>ſaving or Proviſo</hi> in an Act of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi>
+               <note place="margin">Coke rep. fol. 7. Plowden Com. 563. The Iudgment in the high Court of Par<g ref="char:EOLhyphen"/>liament.</note> which is repugnant to the body of the Act, it is void.</p>
+            <p>The Judgment in the High Court of <hi>Parliament</hi> is of as ample Authority as the ſentence of any or all other Courts whatſoever, for it delivereth Lawes that do bind al perſons in all cauſes; as wel <hi>Eccleſiaſticall</hi> as <hi>Temporall;</hi> it hath Juriſdiction in ſuch caſes as have need of help where there is no help by any Law already in force; it reverſeth erronious judgements given in any Court.</p>
+            <p>No Court can fine and impriſon but a Court of Re<g ref="char:EOLhyphen"/>cord:
+<pb n="5" facs="tcp:162088:4"/>
+               <!-- PDF PAGE 27 -->The Houſe of Commons is no Court of Record.<note place="margin">8 part Coke republ. 120. 27 H. 6. f. 8.</note> The Houſe of <hi>Lords,</hi> where the King is in Perſon, his Nobles, and his Judges, and Councel of Law, the ma<g ref="char:EOLhyphen"/>ſters of the Chancery aſſiſting, is a Court of Record: That is the Court of <hi>Parliament,</hi> where the <hi>Colloquium &amp; Tractatus eſt.</hi>
+            </p>
+            <p>No priviledge of <hi>Parliament</hi> is grantable for Treaſon,<note place="margin">8 H. 6. numb. 57. Rot. Parlia<g ref="char:EOLhyphen"/>ment' Coke 4. Calvins caſe.</note> Felony, or breach of the Peace, 17 <hi>Ed.</hi> 4.57. <hi>Coke</hi> 4 <hi>part Inſtit.</hi> 25. 17 <hi>Ed.</hi> 4. <hi>numb.</hi> 39. <hi>Coke</hi> 7 <hi>part, fol.</hi> 21, 22.</p>
+            <p>A Parliament is to be holden once every year, <hi>Parl.</hi> 4 <hi>Ed.</hi> 3. <hi>&amp;</hi> 36 <hi>Ed.</hi> 3. <hi>c.</hi> 10.</p>
+            <p>All Treaſons, Felonies, Treſpaſſes,<note place="margin">Treaſon.</note> are <hi>contra pacem Coronam &amp; dignitatem Regis.</hi>
+            </p>
+            <p>
+               <note place="margin">Humane Lawes.</note>All humane Lawes, are either the Law of Nature, Cu<g ref="char:EOLhyphen"/>ſtomes, or Statutes, which are called <hi>Conſtitutions;</hi> but Cuſtomes, when they were firſt put in writing, and by ſufficient Authority of the Prince publiſhed and com<g ref="char:EOLhyphen"/>manded to be kept, were changed into the nature of Conſtitutions and Statutes; and did after that, more pe<g ref="char:EOLhyphen"/>nally bind the Subjects.</p>
+            <p>
+               <hi>The Laws of England.</hi>
+            </p>
+            <p>
+               <note place="margin">The Laws of <hi>England.</hi>
+               </note>The Lawes of <hi>England</hi> ſtand for the maintenance of the juſt Priviledges of the Crown of <hi>England,</hi> the juſt Rites of the Church of <hi>England,</hi> the juſt Rights of the liberty of the People of <hi>England,</hi> &amp; do lay forth their in<g ref="char:EOLhyphen"/>tereſt, in the preſervation and maintenance of 3 things:</p>
+            <list>
+               <item>1. The firſt is called, the Regiſter of Writs, <hi>privile<g ref="char:EOLhyphen"/>gium Regis,</hi> or <hi>jus regni.</hi>
+               </item>
+               <item>2. The ſecond is called, <hi>jus Eccleſiaſticum,</hi> or <hi>jus Ec<g ref="char:EOLhyphen"/>cleſiaſticae.</hi>
+               </item>
+               <item>3. The third is called, <hi>jus Populi,</hi> or <hi>libertates Angliae.</hi>
+               </item>
+            </list>
+            <p>Theſe 3 make up the Body of the Common Law; a Law ſo peacefull for the keeping all theſe in unity, that
+<pb n="6" facs="tcp:162088:5"/>
+               <!-- PDF PAGE 28 -->for this cauſe it is by the Authority of the Laws of this Realme ſtiled by the name of <hi>Peace,</hi>
+               <note place="margin">Mich. 7 Ed. 1. Rot. 21. Lin<g ref="char:EOLhyphen"/>wood de jure competenti 71. Coke Inſtit. 2.489.</note> 
+               <hi>pax Dei,</hi> as rela<g ref="char:EOLhyphen"/>ting to the Rites of the Church; and <hi>pax Regni,</hi> as relating to the Rights of the People, <hi>vide</hi> the words of the Kings Charters in former times, <hi>conceſsimus Deo &amp; Eccleſiae, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>THat no Members of the Houſe of Commons doe preſume to ſit or take their Places in the lower Houſe of Parlia<g ref="char:EOLhyphen"/>ment untill they,</hi>
+               <note place="margin">
+                  <hi>Proclamation before the L. Steward,</hi> 3 die Novem<g ref="char:EOLhyphen"/>bris, 1640. an. 16. Regis Caroli.</note> 
+               <hi>and every of them have firſt taken the Oaths of</hi> Supremacy <hi>and</hi> Allegiance <hi>in the uſuall manner and place, nor untill the Sheriffe ſhall make retourn of his Writ, according to the Statute, unto the Clark of the Crown in Chancery, and his or their Names be entred in ſuch man<g ref="char:EOLhyphen"/>ner, as it hath been heretofore accuſtomed.</hi>
+            </p>
+            <p>The number of the Knights, Citizens, and Burgeſ<g ref="char:EOLhyphen"/>ſes, Choſen to attend this preſent Parliament, out of Counties, Cities, and Burrough Towns of <hi>England</hi> and <hi>Wales,</hi> and the Barony of the Ports, now ſitting at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> (3 <hi>die Novemb.</hi> 1640.) 424. beſides the Lords and Peers of upper Houſe of Parliament.</p>
+            <trailer>FINIS.</trailer>
+            <pb n="6" facs="tcp:162088:6"/>
+            <!-- PDF PAGE 29 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
